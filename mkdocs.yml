@@ -21,6 +21,7 @@ pages:
             - 'installing/cloud/index.md'
             - 'installing/cloud/cloud9.md'
             - 'installing/cloud/cloudron.md'
+            - 'installing/cloud/gitpod.md'
             - 'installing/cloud/heroku.md'
             - 'installing/cloud/koding.md'
             - 'installing/cloud/nitrous.md'
